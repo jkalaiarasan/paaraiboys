@@ -1,16 +1,29 @@
-import Koneri from './Koneri.jpg';
-import './App.css';
+import React from 'react';
+import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import Home from './components/Home';
+import Members from './components/Members';
+import Login from './components/Login';
+import Signup from './components/Signup';
+import Contact from './components/Contact';
+import Navbar from './components/Navbar/Navbar';
 
-function App() {
+const App = () => {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={Koneri} className="App-logo" alt="logo" />
-        <p>
-        பாறை பாய்ஸ்- கணேசபுரம்
-        </p>
-      </header>
-    </div>
+    <Router>
+      <Navbar />
+      <Routes>
+        <Route path="/" element={<Home/>} exact>
+        </Route>
+        <Route path="/members" element={<Members/>}>
+        </Route>
+        <Route path="/login" element={<Login/>}>
+        </Route>
+        <Route path="/signup" element={<Signup/>}>
+        </Route>
+        <Route path="/contact" element={<Contact/>}>
+        </Route>
+      </Routes>
+    </Router>
   );
 }
 
