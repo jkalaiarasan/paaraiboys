@@ -13,7 +13,7 @@ const Navbar = () => {
                 <Link to="/" className="home">
                     <li>முகப்பு பக்கம்</li>
                 </Link>
-                <Link to="/member" className="member">
+                <Link to="/members" className="member">
                     <li>உறுப்பினர்கள்</li>
                 </Link>
                 <Link to="/login" className="login">
