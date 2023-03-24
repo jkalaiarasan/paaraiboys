@@ -16,14 +16,14 @@ const Navbar = () => {
                 <Link to="/members" className="member">
                     <li>உறுப்பினர்கள்</li>
                 </Link>
+                <Link to="/contact" className="contact">
+                    <li>தொடர்புக்கு</li>
+                </Link>
                 <Link to="/login" className="login">
                     <li>உள்நுழை</li>
                 </Link>
                 <Link to="/signup" className="signup">
                     <li>உறுப்பினராக சேர்</li>
-                </Link>
-                <Link to="/contact" className="contact">
-                    <li>தொடர்புக்கு</li>
                 </Link>
             </ul>
             <button className="mobile-menu-icon" onClick={() => setIsMobile(!isMobile)}>
