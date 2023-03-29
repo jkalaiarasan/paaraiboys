@@ -11,6 +11,9 @@
     align-items: center;
     background-color: #00828c;
     color: white;
+    position: fixed;
+    width: 100%;
+    height: 65px;
 }
 
 .logo{

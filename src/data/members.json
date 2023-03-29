@@ -12,7 +12,10 @@
     {
        "name":"லோகேஷ்",
        "age":9,
-       "title":"துணை தலைவர்"
+       "title":"துணை தலைவர்",
+       "photo":"Logesh",
+       "photoType":"jpg",
+       "photoId":"c64e860efaa58092f030"
     },
     {
        "name":"நவீன் தவான்",
@@ -26,23 +29,35 @@
     {
        "name":"ஹரிஷ்",
        "age":11,
-       "title":"உறுப்பினர்"
+       "title":"உறுப்பினர்",
+       "photo":"Harish",
+       "photoType":"jpg",
+       "photoId":"1355f738e1a2c864b6b0"
     },
     {
        "name":"சந்தோஷ்",
        "age":10,
-       "title":"உறுப்பினர்"
+       "title":"உறுப்பினர்",
+       "photo":"Santhosh",
+       "photoType":"jpg",
+       "photoId":"cdd4ac6c54b4c56899a6"
     },
     {
        "name":"சக்திவேல்",
        "age":8,
-       "title":"உறுப்பினர்"
+       "title":"உறுப்பினர்",
+       "photo":"Sakthivel",
+       "photoType":"jpg",
+       "photoId":"ccbabaa3c1530ea5289f"
     },
     {
        "name":"கோகுல்",
        "age":16,
        "title":"உறுப்பினர்",
-       "whatsapp":"919655616807"
+       "whatsapp":"919655616807",
+       "photo":"Gokul",
+       "photoType":"jpg",
+       "photoId":"980c04e315405405c269"
     },
     {
        "name":"சந்துரு",
@@ -62,7 +77,10 @@
     {
        "name":"நவீன் பட்டயார்",
        "age":12,
-       "title":"உறுப்பினர்"
+       "title":"உறுப்பினர்",
+       "photo":"Naveen_Pattayar",
+       "photoType":"jpg",
+       "photoId":"1eb5a04b9c5360ea7fcc"
     },
     {
        "name":"அஜித்",
@@ -72,7 +90,7 @@
        "phone":"tel:+917868883417",
        "photo":"Ajith",
        "photoType":"jpg",
-       "photoId":"8f64039f0830c4a38371"
+       "photoId":"8b9ada35eba4c3aaac1a"
     },
     {
        "name":"சிவா",
@@ -97,7 +115,10 @@
     {
        "name":"மோகன்",
        "age":10,
-       "title":"உறுப்பினர்"
+       "title":"உறுப்பினர்",
+       "photo":"Mohan",
+       "photoType":"jpg",
+       "photoId":"a32db5035e2495a0b596"
     },
     {
        "name":"K.பிரசன்னா",
@@ -107,11 +128,25 @@
     {
        "name":"T.பிரசன்னா",
        "age":10,
-       "title":"உறுப்பினர்"
+       "title":"உறுப்பினர்",
+       "photo":"Prasanna",
+       "photoType":"jpg",
+       "photoId":"ea733ce55847eec32874"
     },
     {
        "name":"திருப்பதி",
        "age":15,
-       "title":"உறுப்பினர்"
-    }
+       "title":"உறுப்பினர்",
+       "photo":"Tirupathi",
+       "photoType":"jpg",
+       "photoId":"8f36c5aab478f3b8a25f"
+    },
+    {
+      "name":"அபினேஷ்",
+      "age":13,
+      "title":"உறுப்பினர்",
+      "photo":"Abinesh",
+      "photoType":"jpg",
+      "photoId":"c5f2e8427469d9aac130"
+   }
  ]
