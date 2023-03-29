@@ -4,7 +4,7 @@
        "age":36,
        "title":"தலைவர்",
        "whatsapp":"919786130449",
-       "phone":"tel:919786130449",
+       "phone":"tel:+919786130449",
        "photo":"Dharmar",
        "photoType":"jpg",
        "photoId":"5518cf53f7e82c53d5b9"
@@ -69,7 +69,7 @@
        "age":25,
        "title":"உறுப்பினர்",
        "whatsapp":"917868883417",
-       "phone":"tel:917868883417",
+       "phone":"tel:+917868883417",
        "photo":"Ajith",
        "photoType":"jpg",
        "photoId":"8f64039f0830c4a38371"
@@ -92,7 +92,7 @@
        "photoType":"jpg",
        "photoId":"99c36f6fddf969e725bd",
        "whatsapp":"917604874194",
-       "phone":"tel:9943230929"
+       "phone":"tel:+919943230929"
     },
     {
        "name":"மோகன்",
