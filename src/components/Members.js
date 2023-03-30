@@ -14,7 +14,7 @@ const Members = () => {
             member.whatsapp = 'https://wa.me/' +  member.whatsapp + '?text=Hi%20' + member.name + ',%20FROM%20பாறை%20பாய்ஸ்!';
         }
         if(member.photo){
-            member.photoPath = `/static/media/${member.photo}.${member.photoId}.${member.photoType}`;
+            member.photoPath = `/static/media/${member.photo}.${member.photoId}.jpg`;
         } else {
             member.photoPath = 'https://icon-library.com/images/no-picture-available-icon/no-picture-available-icon-20.jpg';
         }

@@ -1,8 +1,11 @@
 import React from 'react';
+import Paarai from '../photos/Paarai.jpg';
 
 const Home = () => {
     return (
-        <div>Home Page</div>
+        <div>
+            <img src={Paarai} style={{width: '-webkit-fill-available'}} alt="Paarai Image"/>
+        </div>
     )
 }
 
