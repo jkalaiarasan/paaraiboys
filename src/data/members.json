@@ -11,10 +11,18 @@
     {
       "name":"லோகேஷ்",
       "age":9,
-      "title":"துணை தலைவர்",
+      "title":"பொதுச் செயலாளர்",
       "photo":"Logesh",
       "photoId":"c64e860efaa58092f030"
    },
+    {
+       "name":"நவீன் தவான்",
+       "age":16,
+       "title":"பொருளாளர்",
+       "whatsapp":"918610515581",
+       "photo":"Naveen",
+       "photoId":"bf1c06323b3e58dad73e"
+    },
     {
       "name":"மணிவேல்",
       "age":26,
@@ -22,14 +30,6 @@
       "photo":"Manivel",
       "photoId":"a7a3f8fb96d816ff0292"
    },
-    {
-       "name":"நவீன் தவான்",
-       "age":16,
-       "title":"துணை தலைவர்",
-       "whatsapp":"918610515581",
-       "photo":"Naveen",
-       "photoId":"bf1c06323b3e58dad73e"
-    },
     {
        "name":"ஹரிஷ்",
        "age":11,
@@ -171,5 +171,12 @@
       "title":"உறுப்பினர்",
       "photo":"",
       "photoId":""
+   },
+   {
+      "name":"மூர்த்தி",
+      "age":29,
+      "title":"உறுப்பினர்",
+      "photo":"Moorthi",
+      "photoId":"7040def538c904919b70"
    }
  ]
