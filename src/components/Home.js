@@ -1,10 +1,10 @@
 import React from 'react';
-import Paarai from '../photos/Paarai.jpg';
 
 const Home = () => {
     return (
-        <div>
-            <img src={Paarai} style={{width: '-webkit-fill-available'}} alt="Paarai Image"/>
+        <div style={{width: '100%', height: '100%'}}>
+            <iframe src="https://lh3.googleusercontent.com/pw/AJFCJaWQMrDshxXEn51A71FP8yG6H-4gutnvpCdgpClmZ-CrmQrt1WgNUQ0ySemj-SXOSppU2HBtjmhlbqM9j_A_sX9oV2QHzYQVe367Miis-aZLy3dGPiY=w2400" title="Kodaikanal">
+            </iframe>
         </div>
     )
 }
