@@ -21,7 +21,7 @@ const Members = () => {
     })
     return (
         <div>
-            <div className="vh-100">
+            <div className="vh-100" style={{marginTop: '35px'}}>
                 {members.map((member) => {
                     return <MDBContainer key={member.Id}>
                         <MDBRow className="justify-content-center">
